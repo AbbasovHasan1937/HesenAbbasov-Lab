@@ -4,7 +4,8 @@
     <title>Vurma </title>
 </head>
 <body>
- <table border="0">
+ <table border=".e">
+     
         <?php
             for ($a = 1; $a <= 9; $a++) {
              echo "<tr>";
